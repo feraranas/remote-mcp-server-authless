@@ -1,5 +1,12 @@
 # Building a Remote MCP Server on Cloudflare (Without Auth)
 
+https://remote-mcp-server-authless.feraranas.workers.dev/
+
+<details>
+<summary>Good to know & read Docs</summary>
+
+# Building a Remote MCP Server on Cloudflare (Without Auth)
+
 This example allows you to deploy a remote MCP server that doesn't require authentication on Cloudflare Workers. 
 
 ## Get started: 
@@ -48,3 +55,5 @@ Update with this configuration:
 ```
 
 Restart Claude and you should see the tools become available. 
+
+</details>
